@@ -1,0 +1,79 @@
+body {
+	margin: auto;
+	text-align: center;
+	font-family: Georgia;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h3 {
+	font-family: Arial;
+	font-size: 17px;
+}
+			
+img {
+	width: 500px;
+	height: auto;
+}
+
+.nav {
+	background-color: white;
+	overflow: hidden;
+}
+
+.nav a {
+	float: center;
+	display: inline;
+	color: green;
+	text-align: center;
+	font-size: 40px;
+}
+
+.nav a:hover {
+	color: orange;
+}
+
+ul.links {
+	text-align: left;
+}
+
+#topBar {
+	background-color: green;
+	color: white;
+}
+
+#pageTitle {
+	background-color: orange;
+	color: green;
+}
+
+#interests {
+	margin: auto;
+	text-align: center;
+	width: 95%;
+}
+
+#favorites {
+	background-color: orange;
+	color: green;
+	margin: auto;
+	text-align: center;
+	font-family: Georgia;
+}
+
+p.websiteBio {
+	margin: auto;
+	text-align: left;
+	width: 95%;
+}
+
+.websiteFavoritesLists{
+	margin: auto;
+	text-align: left;
+	width: 95%;
+}
+
+
+
